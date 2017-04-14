@@ -1,0 +1,8 @@
+127.0.0.1 - - [14/Apr/2017:18:11:31 -0300] "GET /CalcIMC HTTP/1.1" 302 - http-bio-9090-exec-1 0
+127.0.0.1 - - [14/Apr/2017:18:11:31 -0300] "GET /CalcIMC/ HTTP/1.1" 200 1689 http-bio-9090-exec-2 19
+127.0.0.1 - - [14/Apr/2017:18:11:31 -0300] "GET /CalcIMC/app.js HTTP/1.1" 200 551 http-bio-9090-exec-3 4
+127.0.0.1 - - [14/Apr/2017:18:11:31 -0300] "GET /favicon.ico HTTP/1.1" 404 - http-bio-9090-exec-4 0
+127.0.0.1 - - [14/Apr/2017:18:11:32 -0300] "GET /favicon.ico HTTP/1.1" 404 - http-bio-9090-exec-5 0
+127.0.0.1 - - [14/Apr/2017:18:13:14 -0300] "GET /exercicio HTTP/1.1" 302 - http-bio-9090-exec-1 0
+127.0.0.1 - - [14/Apr/2017:18:13:14 -0300] "GET /exercicio/ HTTP/1.1" 200 1689 http-bio-9090-exec-2 26
+127.0.0.1 - - [14/Apr/2017:18:13:14 -0300] "GET /exercicio/app.js HTTP/1.1" 200 551 http-bio-9090-exec-3 10
